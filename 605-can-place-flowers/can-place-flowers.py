@@ -10,3 +10,5 @@ class Solution:
                     flowerbed[i] = 1
                     count += 1
         return count >= n
+        
+        
